@@ -7,4 +7,6 @@ Then, you can analyse whether a given resource may be abnormally allocated acros
 To try to solve these problems, I decided to develop a software by following the approach of data analysis through the Critical Path Method (CPM).
 The tools used to develop the software are: Neo4j and PyCharm, 
 languages: Cypher and Python, 
-libraries: pandas and py2neo
+libraries: pandas and py2neo.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>.
